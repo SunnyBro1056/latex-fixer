@@ -1,0 +1,1 @@
+This project is purely to replace the `$MATH$` LaTeX notation with the Anki-compatibe `\(MATH\)` notation. It is a simple Python script run with `python main.py`. This is purely for personal use and made because of my own annoyance of switching over my Obsidian notes to Anki flashcards.
